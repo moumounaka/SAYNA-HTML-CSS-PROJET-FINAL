@@ -1,0 +1,46 @@
+.nav {
+    text-align: right;
+    margin-right: 23%;
+}
+
+a {
+    text-decoration: none;
+    color: #ffffff;
+    float: right;
+}
+
+.event{
+    position: relative;
+    float: left;
+    bottom: 20px;
+}
+
+a:hover {
+    color: #98a5a5;
+}
+
+.learn:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color: #575a89;
+    color: #eee;
+    color: #575a89;
+    color: #98a5a5;
+}
+
+.container{
+    box-shadow: 1px 0px 4px 3px grey;
+}
+
+/* FOOTER */
+
+.loc{
+    color: #fff;
+}
+
+.social i{
+    color: #fff;
+    margin: 10px;
+}
